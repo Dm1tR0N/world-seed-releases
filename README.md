@@ -3,7 +3,7 @@
 <h1 align="center">WORLD-SEED</h1>
 <p align="center"><i>Живой мир, который пишет свою историю</i></p>
 
-<p align="center"><a href="https://github.com/Dm1tR0N/world-seed-releases/releases/latest"><b>⬇ Скачать последнюю версию для Windows</b></a></p>
+<p align="center"><a href="https://github.com/Dm1tR0N/world-seed-releases/releases/latest"><b>⬇ Скачать последнюю версию для Windows</b></a> · <a href="https://t.me/world_seed"><b>💬 Сообщество в Telegram</b></a></p>
 
 ---
 
@@ -28,5 +28,7 @@ WORLD-SEED — симуляция мира, где люди начинают с 
 3. Обновления игра проверяет сама при запуске.
 
 Требования: Windows 10/11, 64 бит, 4 ГБ памяти (лучше 8 ГБ).
+
+Новости, моды, истории миров и помощь — в Telegram: **[t.me/world_seed](https://t.me/world_seed)**.
 
 Миры хранятся в папке пользователя и не удаляются при обновлении или удалении игры.
